@@ -44,7 +44,7 @@ To quickly populate the app with luxury listings:
 cd backend
 npm run seed
 ```
-- **Username**: `seller@example.com`
+- **Username**: `sell@gmail.com`
 - **Password**: `sellprop`
 
 ### 6. Clear Data (Optional)

@@ -45,7 +45,7 @@ cd backend
 npm run seed
 ```
 - **Username**: `seller@example.com`
-- **Password**: `password123`
+- **Password**: `sellprop`
 
 ### 6. Clear Data (Optional)
 To wipe all users and properties from the database:

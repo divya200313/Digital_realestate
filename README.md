@@ -1,6 +1,6 @@
-# 🏠 EstateVista — Real Estate Platform
+# 🏠 EstateVista — Digital Real Estate Platform
 
-A modern full-stack real estate listing application built with React, Node.js, and MongoDB.
+This platform is a digital real estate listing website where apartment owners, builders, and real estate agents can list properties, and buyers or tenants can search for apartments based on location, price, type, and amenities. A modern full-stack real estate listing application built with React, Node.js, and MongoDB.
 
 ---
 
